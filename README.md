@@ -1,2 +1,2 @@
-# MC536
-My solutions for the MC536 (database) labs
+# Aluno
+George Gigilas Junior - 216741
