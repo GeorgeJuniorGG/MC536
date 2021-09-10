@@ -1,5 +1,5 @@
 # Aluno
-* `216741`: `George Gigilas Junior`
+* 216741: George Gigilas Junior
 
 ## Tarefa sobre Consultas SQL no NHANES
 
