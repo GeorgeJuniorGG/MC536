@@ -18,9 +18,9 @@
 > 
 > Então, o artigo passa por 3 exemplos de análises do dataset: análise de vizinhança (proporção das categorias criminais na vizinhança de um nó), análise de comunidade (mapeia a área das 5 maiores comunidades criminosas) e análise temporal (análise de tendências criminosas ao longo dos anos e dos meses de cada ano). Todos esses exemplos estão bastante detalhados e seus resultados são apresentados de forma bem ilustrativa.
 > 
-> Considerando o dataset criado, os autores falam sobre sua aplicabilidade (e compatibilidade com outras tecnologias), desafios e limitações do processamento desses dados. Nessa seção, é mostrado como pode ser importante a contribuição desse dataset para combater esses desafios, o que será mais detalhado no próximo tópico "Perguntas de pesquisa/análises". Além disso, os autores discutem como as limitações desse dataset por conta da falta de dados para algumas regiões, mas que isso deve melhorar ao longo dos anos.
+> Considerando o dataset criado, os autores falam sobre sua aplicabilidade (e compatibilidade com outras tecnologias), desafios e limitações do processamento desses dados. Nessa seção, é mostrado como pode ser importante a contribuição desse dataset para combater esses desafios, o que será mais detalhado no próximo tópico "Perguntas de pesquisa/análises". Além disso, os autores discutem sobre as limitações desse dataset, por conta da falta de dados para algumas regiões, e que isso deve melhorar ao longo dos anos.
 > 
-> Por fim, o artigo descreve como se pode obter e fazer download desses dados, assim como licenças e direitos autorais. O artigo finaliza concluindo e retomando o que foi desenvolvido ao longo dele.
+> Por fim, o artigo descreve como se pode obter e fazer download desses dados, assim como deixam explicito assuntos como licenças e direitos autorais. O artigo finaliza concluindo e retomando o que foi desenvolvido ao longo dele.
 
 ## Perguntas de pesquisa/análises
 
