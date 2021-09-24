@@ -24,8 +24,16 @@
 
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
+> O dataset pode contribuir para responder perguntas sobre: 
+> + A evolução das comunidades criminosas ao longo do tempo, a partir da análise do número de nós e tamanho absoluto das comunidades identificadas pelo algoritmo de Nerstrand. Isso pode ser uma medida de verificação da efetividade da atuação policial para combater crimes.
+> + A conexão entre crimes distintos para detectar padrões, inferir e prever relações de causa e efeito baseado no local e no tipo do crime. Isso pode ser aplicado em uma escala global para contribuir mundialmente para a redução de crimes.
+> + A inclusão de métricas de grafos em análises criminais (como proximidade, vizinhança), que já são muito utilizadas em outras áreas para análises de cidade.
 
 ## Trabalhos relacionados
 
-> Relacione outras iniciativas relacionadas com a do artigo que tenham sido mencionadas no mesmo.
+> O texto cita trabalhos relacionados como:
+> + [Nieto-Chaupis 2018a, Nieto-Chaupis 2018b], em que os autores revisaram aspectos sociais de índices de criminalidade nas ruas associados com dados de trânsito na cidade de Lima, Peru, além de estudarem dados relacionados a identificação de anomalias sociais em algumas cidades da América Latina. Esse trabalho é bem relacionado com o artigo descrito, porém ele é mais focado na relação do crime com o trânsito, enquanto o artigo descrito foca em identificar regiões e comunidades de crime.
+> + [Ferreira et al. 2018], em que os autores aplicaram grafos (igual ao estudo do artigo) para estudar assuntos de segurança pública em Bogotá, Colômbia.
+> + [Spadon et al. 2016], em que os autores identificam e estudam regiões criminosas de uma cidade, revisando casos em que crimes similares se concentram em áreas próximas. Esse conceito foi explorado no artigo descrito, em que se avaliou crimes a redor de um nó.
+> + [Spadon et al. 2017], em que foi proposto um algoritmo para medir a dispersão de criminalidade em áreas de muita concentração de crime, permitindo a identificação de áreas de crimes recorrentes e de espalhamento de atividades criminais ao longo da regiões da cidade, o que também pode ser explorado pelo artigo descrito, que analisa diversos nós.
+> + [Galbrun et al. 2016], [Fitterer et al. 2014], [Bogomolov et al. 2014], que estimam a probabilidade de ocorrer um crime, a partir de análises específicas, que também se relacionam a um dos desafios para o qual o G-FranC pode ser útil.
