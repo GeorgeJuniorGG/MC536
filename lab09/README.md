@@ -1,7 +1,7 @@
 # Aluno
 * `216741`: `George Gigilas Junior`
 
-## Modelo Lógico do Banco de Dados de Grafos
+## Modelo do Grafo de Conhecimento
 
 > ![Grafo de Conhecimento](images/grafo.png)
 
